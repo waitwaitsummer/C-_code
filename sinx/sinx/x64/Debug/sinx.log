@@ -1,0 +1,4 @@
+﻿  源.c
+G:\码云\programming-from-scratch\sinx\sinx\源.c(9,8): warning C4477: “scanf”: 格式字符串“%i”需要类型“int *”的参数，但可变参数 1 拥有了类型“double *”
+G:\码云\programming-from-scratch\sinx\sinx\源.c(12,9): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+  sinx.vcxproj -> G:\码云\programming-from-scratch\sinx\x64\Debug\sinx.exe

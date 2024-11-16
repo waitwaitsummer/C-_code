@@ -1,0 +1,15 @@
+﻿  源.c
+G:\码云\programming-from-scratch\102.5\102.5\源.c(8,12): error C2059: 语法错误:“类型”
+G:\码云\programming-from-scratch\102.5\102.5\源.c(10,31): error C2043: 非法 break
+G:\码云\programming-from-scratch\102.5\102.5\源.c(11,2): error C2046: 非法的 case
+G:\码云\programming-from-scratch\102.5\102.5\源.c(11,22): error C2043: 非法 break
+G:\码云\programming-from-scratch\102.5\102.5\源.c(12,2): error C2046: 非法的 case
+G:\码云\programming-from-scratch\102.5\102.5\源.c(12,22): error C2043: 非法 break
+G:\码云\programming-from-scratch\102.5\102.5\源.c(13,2): error C2046: 非法的 case
+G:\码云\programming-from-scratch\102.5\102.5\源.c(13,22): error C2043: 非法 break
+G:\码云\programming-from-scratch\102.5\102.5\源.c(14,2): error C2047: 非法的 default
+G:\码云\programming-from-scratch\102.5\102.5\源.c(16,9): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+G:\码云\programming-from-scratch\102.5\102.5\源.c(16,9): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+G:\码云\programming-from-scratch\102.5\102.5\源.c(16,9): error C2059: 语法错误:“字符串”
+G:\码云\programming-from-scratch\102.5\102.5\源.c(16,42): error C2059: 语法错误:“)”
+G:\码云\programming-from-scratch\102.5\102.5\源.c(17,1): error C2059: 语法错误:“}”

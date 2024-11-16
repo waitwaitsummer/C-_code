@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\programming-from-scratch\\\u6210\u7EE9\u5206\u7C7B\u7528if\u8BED\u53E5\u5206\u56DB\u79CD\u60C5\u51B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23058388-EBB6-405C-9090-997540E09F39}|\u6210\u7EE9\u5206\u7C7B\u7528if\u8BED\u53E5\u5206\u56DB\u79CD\u60C5\u51B5.csproj|d:\\code\\programming-from-scratch\\\u6210\u7EE9\u5206\u7C7B\u7528if\u8BED\u53E5\u5206\u56DB\u79CD\u60C5\u51B5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23058388-EBB6-405C-9090-997540E09F39}|\u6210\u7EE9\u5206\u7C7B\u7528if\u8BED\u53E5\u5206\u56DB\u79CD\u60C5\u51B5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\programming-from-scratch\\\u6210\u7EE9\u5206\u7C7B\u7528if\u8BED\u53E5\u5206\u56DB\u79CD\u60C5\u51B5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\code\\programming-from-scratch\\\u6210\u7EE9\u5206\u7C7B\u7528if\u8BED\u53E5\u5206\u56DB\u79CD\u60C5\u51B5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:23:52.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

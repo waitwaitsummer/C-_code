@@ -1,0 +1,3 @@
+﻿  源.c
+G:\码云\programming-from-scratch\ch\ch\源.c(5,9): warning C4476: "printf": 格式说明符中的类型字段字符“+”未知
+  ch.vcxproj -> G:\码云\programming-from-scratch\ch\x64\Debug\ch.exe
