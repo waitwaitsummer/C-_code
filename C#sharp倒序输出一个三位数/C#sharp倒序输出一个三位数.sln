@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#sharp倒序输出一个三位数", "C#sharp倒序输出一个三位数.csproj", "{D6658E15-CE25-408C-B153-3498AD82E901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6658E15-CE25-408C-B153-3498AD82E901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6658E15-CE25-408C-B153-3498AD82E901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6658E15-CE25-408C-B153-3498AD82E901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6658E15-CE25-408C-B153-3498AD82E901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C035EF5-4A10-45F3-9033-0AF968F0C279}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Hub code\\C-_code\\C#sharp\u5012\u5E8F\u8F93\u51FA\u4E00\u4E2A\u4E09\u4F4D\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6658E15-CE25-408C-B153-3498AD82E901}|C#sharp\u5012\u5E8F\u8F93\u51FA\u4E00\u4E2A\u4E09\u4F4D\u6570.csproj|c:\\git hub code\\c-_code\\c#sharp\u5012\u5E8F\u8F93\u51FA\u4E00\u4E2A\u4E09\u4F4D\u6570\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6658E15-CE25-408C-B153-3498AD82E901}|C#sharp\u5012\u5E8F\u8F93\u51FA\u4E00\u4E2A\u4E09\u4F4D\u6570.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Hub code\\C-_code\\C#sharp\u5012\u5E8F\u8F93\u51FA\u4E00\u4E2A\u4E09\u4F4D\u6570\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git Hub code\\C-_code\\C#sharp\u5012\u5E8F\u8F93\u51FA\u4E00\u4E2A\u4E09\u4F4D\u6570\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:06:48.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
