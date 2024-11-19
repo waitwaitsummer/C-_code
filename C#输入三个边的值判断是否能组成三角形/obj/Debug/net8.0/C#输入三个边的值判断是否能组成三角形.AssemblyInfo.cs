@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#输入三个边的值判断是否能组成三角形")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b896966caaf8dc5ccecf952ada6e3a274a884cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fd997fd193ac3b001a05706095a29fc12aed180")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#输入三个边的值判断是否能组成三角形")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#输入三个边的值判断是否能组成三角形")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
