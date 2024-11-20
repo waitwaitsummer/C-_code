@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\bin\Debug\net8.0\C#判断是几位数并倒序输出.exe
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\bin\Debug\net8.0\C#判断是几位数并倒序输出.deps.json
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\bin\Debug\net8.0\C#判断是几位数并倒序输出.runtimeconfig.json
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\bin\Debug\net8.0\C#判断是几位数并倒序输出.dll
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\bin\Debug\net8.0\C#判断是几位数并倒序输出.pdb
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\C#判断是几位数并倒序输出.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\C#判断是几位数并倒序输出.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\C#判断是几位数并倒序输出.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\C#判断是几位数并倒序输出.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\C#判断是几位数并倒序输出.sourcelink.json
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\C#判断是几位数并倒序输出.dll
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\refint\C#判断是几位数并倒序输出.dll
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\C#判断是几位数并倒序输出.pdb
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\C#判断是几位数并倒序输出.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#判断是几位数并倒序输出\obj\Debug\net8.0\ref\C#判断是几位数并倒序输出.dll
