@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\bin\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.exe
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\bin\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.deps.json
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\bin\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.runtimeconfig.json
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\bin\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.dll
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\bin\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.pdb
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.sourcelink.json
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.dll
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\refint\C#输入一个非零整数判断是正数还是负数并输出绝对值.dll
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.pdb
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\C#输入一个非零整数判断是正数还是负数并输出绝对值.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#输入一个非零整数判断是正数还是负数并输出绝对值\obj\Debug\net8.0\ref\C#输入一个非零整数判断是正数还是负数并输出绝对值.dll
