@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\bin\Debug\net8.0\C#输入三个数，求最大数的平方.exe
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\bin\Debug\net8.0\C#输入三个数，求最大数的平方.deps.json
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\bin\Debug\net8.0\C#输入三个数，求最大数的平方.runtimeconfig.json
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\bin\Debug\net8.0\C#输入三个数，求最大数的平方.dll
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\bin\Debug\net8.0\C#输入三个数，求最大数的平方.pdb
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\C#输入三个数，求最大数的平方.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\C#输入三个数，求最大数的平方.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\C#输入三个数，求最大数的平方.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\C#输入三个数，求最大数的平方.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\C#输入三个数，求最大数的平方.sourcelink.json
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\C#输入三个数，求最大数的平方.dll
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\refint\C#输入三个数，求最大数的平方.dll
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\C#输入三个数，求最大数的平方.pdb
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\C#输入三个数，求最大数的平方.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#输入三个数，求最大数的平方\obj\Debug\net8.0\ref\C#输入三个数，求最大数的平方.dll

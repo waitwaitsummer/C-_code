@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#输入三个数，求最大数的平方/1.0.0": {
+        "runtime": {
+          "C#输入三个数，求最大数的平方.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#输入三个数，求最大数的平方/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
