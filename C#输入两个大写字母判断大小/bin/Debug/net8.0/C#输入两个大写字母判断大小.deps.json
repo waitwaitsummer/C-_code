@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#输入两个大写字母判断大小/1.0.0": {
+        "runtime": {
+          "C#输入两个大写字母判断大小.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#输入两个大写字母判断大小/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

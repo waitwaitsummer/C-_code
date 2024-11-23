@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\bin\Debug\net8.0\C#输入两个大写字母判断大小.exe
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\bin\Debug\net8.0\C#输入两个大写字母判断大小.deps.json
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\bin\Debug\net8.0\C#输入两个大写字母判断大小.runtimeconfig.json
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\bin\Debug\net8.0\C#输入两个大写字母判断大小.dll
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\bin\Debug\net8.0\C#输入两个大写字母判断大小.pdb
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\C#输入两个大写字母判断大小.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\C#输入两个大写字母判断大小.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\C#输入两个大写字母判断大小.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\C#输入两个大写字母判断大小.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\C#输入两个大写字母判断大小.sourcelink.json
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\C#输入两个大写字母判断大小.dll
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\refint\C#输入两个大写字母判断大小.dll
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\C#输入两个大写字母判断大小.pdb
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\C#输入两个大写字母判断大小.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#输入两个大写字母判断大小\obj\Debug\net8.0\ref\C#输入两个大写字母判断大小.dll
