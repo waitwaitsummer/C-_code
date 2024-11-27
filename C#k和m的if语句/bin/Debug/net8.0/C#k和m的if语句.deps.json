@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#k和m的if语句/1.0.0": {
+        "runtime": {
+          "C#k和m的if语句.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#k和m的if语句/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
