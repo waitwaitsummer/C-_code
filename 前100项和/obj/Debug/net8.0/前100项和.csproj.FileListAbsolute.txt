@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\前100项和\bin\Debug\net8.0\前100项和.exe
+C:\Git Hub code\C-_code\前100项和\bin\Debug\net8.0\前100项和.deps.json
+C:\Git Hub code\C-_code\前100项和\bin\Debug\net8.0\前100项和.runtimeconfig.json
+C:\Git Hub code\C-_code\前100项和\bin\Debug\net8.0\前100项和.dll
+C:\Git Hub code\C-_code\前100项和\bin\Debug\net8.0\前100项和.pdb
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\前100项和.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\前100项和.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\前100项和.AssemblyInfo.cs
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\前100项和.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\前100项和.sourcelink.json
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\前100项和.dll
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\refint\前100项和.dll
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\前100项和.pdb
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\前100项和.genruntimeconfig.cache
+C:\Git Hub code\C-_code\前100项和\obj\Debug\net8.0\ref\前100项和.dll
