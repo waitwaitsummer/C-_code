@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#sharpswitch\bin\Debug\net8.0\C#sharpswitch.exe
+C:\Git Hub code\C-_code\C#sharpswitch\bin\Debug\net8.0\C#sharpswitch.deps.json
+C:\Git Hub code\C-_code\C#sharpswitch\bin\Debug\net8.0\C#sharpswitch.runtimeconfig.json
+C:\Git Hub code\C-_code\C#sharpswitch\bin\Debug\net8.0\C#sharpswitch.dll
+C:\Git Hub code\C-_code\C#sharpswitch\bin\Debug\net8.0\C#sharpswitch.pdb
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\C#sharpswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\C#sharpswitch.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\C#sharpswitch.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\C#sharpswitch.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\C#sharpswitch.sourcelink.json
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\C#sharpswitch.dll
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\refint\C#sharpswitch.dll
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\C#sharpswitch.pdb
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\C#sharpswitch.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#sharpswitch\obj\Debug\net8.0\ref\C#sharpswitch.dll
