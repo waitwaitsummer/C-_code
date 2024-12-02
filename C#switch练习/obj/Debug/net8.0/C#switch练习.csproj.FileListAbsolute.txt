@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#switch练习\bin\Debug\net8.0\C#switch练习.exe
+C:\Git Hub code\C-_code\C#switch练习\bin\Debug\net8.0\C#switch练习.deps.json
+C:\Git Hub code\C-_code\C#switch练习\bin\Debug\net8.0\C#switch练习.runtimeconfig.json
+C:\Git Hub code\C-_code\C#switch练习\bin\Debug\net8.0\C#switch练习.dll
+C:\Git Hub code\C-_code\C#switch练习\bin\Debug\net8.0\C#switch练习.pdb
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\C#switch练习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\C#switch练习.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\C#switch练习.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\C#switch练习.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\C#switch练习.sourcelink.json
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\C#switch练习.dll
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\refint\C#switch练习.dll
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\C#switch练习.pdb
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\C#switch练习.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#switch练习\obj\Debug\net8.0\ref\C#switch练习.dll
