@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c#运用while循环做出角色掉血", "c#运用while循环做出角色掉血.csproj", "{FE5D3A81-535E-4DBB-B8F2-48F704ECE6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5D3A81-535E-4DBB-B8F2-48F704ECE6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5D3A81-535E-4DBB-B8F2-48F704ECE6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5D3A81-535E-4DBB-B8F2-48F704ECE6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5D3A81-535E-4DBB-B8F2-48F704ECE6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E4D501E-785E-4B47-BB56-C8644ABAB0A8}
+	EndGlobalSection
+EndGlobal

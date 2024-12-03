@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\bin\Debug\net8.0\c#运用while循环做出角色掉血.exe
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\bin\Debug\net8.0\c#运用while循环做出角色掉血.deps.json
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\bin\Debug\net8.0\c#运用while循环做出角色掉血.runtimeconfig.json
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\bin\Debug\net8.0\c#运用while循环做出角色掉血.dll
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\bin\Debug\net8.0\c#运用while循环做出角色掉血.pdb
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\c#运用while循环做出角色掉血.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\c#运用while循环做出角色掉血.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\c#运用while循环做出角色掉血.AssemblyInfo.cs
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\c#运用while循环做出角色掉血.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\c#运用while循环做出角色掉血.sourcelink.json
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\c#运用while循环做出角色掉血.dll
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\refint\c#运用while循环做出角色掉血.dll
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\c#运用while循环做出角色掉血.pdb
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\c#运用while循环做出角色掉血.genruntimeconfig.cache
+C:\Git Hub code\C-_code\c#运用while循环做出角色掉血\obj\Debug\net8.0\ref\c#运用while循环做出角色掉血.dll
