@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#while语句从100到0从0到一百/1.0.0": {
+        "runtime": {
+          "C#while语句从100到0从0到一百.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#while语句从100到0从0到一百/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

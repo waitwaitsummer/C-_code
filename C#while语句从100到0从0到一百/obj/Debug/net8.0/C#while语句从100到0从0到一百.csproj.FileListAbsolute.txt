@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\bin\Debug\net8.0\C#while语句从100到0从0到一百.exe
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\bin\Debug\net8.0\C#while语句从100到0从0到一百.deps.json
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\bin\Debug\net8.0\C#while语句从100到0从0到一百.runtimeconfig.json
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\bin\Debug\net8.0\C#while语句从100到0从0到一百.dll
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\bin\Debug\net8.0\C#while语句从100到0从0到一百.pdb
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\C#while语句从100到0从0到一百.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\C#while语句从100到0从0到一百.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\C#while语句从100到0从0到一百.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\C#while语句从100到0从0到一百.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\C#while语句从100到0从0到一百.sourcelink.json
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\C#while语句从100到0从0到一百.dll
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\refint\C#while语句从100到0从0到一百.dll
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\C#while语句从100到0从0到一百.pdb
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\C#while语句从100到0从0到一百.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#while语句从100到0从0到一百\obj\Debug\net8.0\ref\C#while语句从100到0从0到一百.dll
