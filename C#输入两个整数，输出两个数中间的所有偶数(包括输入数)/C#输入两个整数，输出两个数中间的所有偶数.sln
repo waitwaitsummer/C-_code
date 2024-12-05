@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#输入两个整数，输出两个数中间的所有偶数", "C#输入两个整数，输出两个数中间的所有偶数.csproj", "{6CF25294-B5C8-4198-B1A0-A088CEB8AE48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF25294-B5C8-4198-B1A0-A088CEB8AE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF25294-B5C8-4198-B1A0-A088CEB8AE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF25294-B5C8-4198-B1A0-A088CEB8AE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF25294-B5C8-4198-B1A0-A088CEB8AE48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0289FA58-3545-4308-868C-A2018522B796}
+	EndGlobalSection
+EndGlobal
