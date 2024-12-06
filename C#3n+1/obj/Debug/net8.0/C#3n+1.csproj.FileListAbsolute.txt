@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#3n+1\bin\Debug\net8.0\C#3n+1.exe
+C:\Git Hub code\C-_code\C#3n+1\bin\Debug\net8.0\C#3n+1.deps.json
+C:\Git Hub code\C-_code\C#3n+1\bin\Debug\net8.0\C#3n+1.runtimeconfig.json
+C:\Git Hub code\C-_code\C#3n+1\bin\Debug\net8.0\C#3n+1.dll
+C:\Git Hub code\C-_code\C#3n+1\bin\Debug\net8.0\C#3n+1.pdb
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\C#3n+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\C#3n+1.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\C#3n+1.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\C#3n+1.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\C#3n+1.sourcelink.json
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\C#3n+1.dll
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\refint\C#3n+1.dll
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\C#3n+1.pdb
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\C#3n+1.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#3n+1\obj\Debug\net8.0\ref\C#3n+1.dll
