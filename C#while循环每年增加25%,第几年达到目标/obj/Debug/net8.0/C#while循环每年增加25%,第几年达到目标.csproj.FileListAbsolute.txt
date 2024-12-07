@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\bin\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.exe
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\bin\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.deps.json
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\bin\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.runtimeconfig.json
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\bin\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.dll
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\bin\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.pdb
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.sourcelink.json
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.dll
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\refint\C#while循环每年增加25%,第几年达到目标.dll
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.pdb
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\C#while循环每年增加25%,第几年达到目标.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#while循环每年增加25%,第几年达到目标\obj\Debug\net8.0\ref\C#while循环每年增加25%,第几年达到目标.dll
