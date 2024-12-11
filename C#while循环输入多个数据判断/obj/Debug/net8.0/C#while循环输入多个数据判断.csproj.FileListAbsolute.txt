@@ -1,0 +1,14 @@
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\bin\Debug\net8.0\C#while循环输入多个数据判断.exe
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\bin\Debug\net8.0\C#while循环输入多个数据判断.deps.json
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\bin\Debug\net8.0\C#while循环输入多个数据判断.runtimeconfig.json
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\bin\Debug\net8.0\C#while循环输入多个数据判断.dll
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\bin\Debug\net8.0\C#while循环输入多个数据判断.pdb
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\obj\Debug\net8.0\C#while循环输入多个数据判断.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\obj\Debug\net8.0\C#while循环输入多个数据判断.AssemblyInfoInputs.cache
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\obj\Debug\net8.0\C#while循环输入多个数据判断.AssemblyInfo.cs
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\obj\Debug\net8.0\C#while循环输入多个数据判断.csproj.CoreCompileInputs.cache
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\obj\Debug\net8.0\C#while循环输入多个数据判断.dll
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\obj\Debug\net8.0\refint\C#while循环输入多个数据判断.dll
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\obj\Debug\net8.0\C#while循环输入多个数据判断.pdb
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\obj\Debug\net8.0\C#while循环输入多个数据判断.genruntimeconfig.cache
+D:\gitcode\Csharp_code\C#while循环输入多个数据判断\obj\Debug\net8.0\ref\C#while循环输入多个数据判断.dll
