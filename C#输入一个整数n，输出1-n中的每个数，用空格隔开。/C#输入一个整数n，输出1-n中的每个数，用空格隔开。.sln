@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#输入一个整数n，输出1-n中的每个数，用空格隔开。", "C#输入一个整数n，输出1-n中的每个数，用空格隔开。.csproj", "{330E9EA7-9C0E-47BB-A0A6-FC4C6A7E472E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330E9EA7-9C0E-47BB-A0A6-FC4C6A7E472E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330E9EA7-9C0E-47BB-A0A6-FC4C6A7E472E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330E9EA7-9C0E-47BB-A0A6-FC4C6A7E472E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330E9EA7-9C0E-47BB-A0A6-FC4C6A7E472E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D00D24A5-0519-4B43-A43C-2134E7519C16}
+	EndGlobalSection
+EndGlobal

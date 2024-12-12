@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#输入一个整数n，输出1-n中的每个数，用空格隔开。/1.0.0": {
+        "runtime": {
+          "C#输入一个整数n，输出1-n中的每个数，用空格隔开。.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#输入一个整数n，输出1-n中的每个数，用空格隔开。/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

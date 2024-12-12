@@ -1,0 +1,15 @@
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\bin\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.exe
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\bin\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.deps.json
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\bin\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.runtimeconfig.json
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\bin\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.dll
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\bin\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.pdb
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.AssemblyInfoInputs.cache
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.AssemblyInfo.cs
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.csproj.CoreCompileInputs.cache
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.sourcelink.json
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.dll
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\refint\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.dll
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.pdb
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.genruntimeconfig.cache
+C:\Git Hub code\C-_code\C#输入一个整数n，输出1-n中的每个数，用空格隔开。\obj\Debug\net8.0\ref\C#输入一个整数n，输出1-n中的每个数，用空格隔开。.dll
